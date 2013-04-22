@@ -211,7 +211,7 @@ public class TestPartitionFormatterXML extends TestCase {
 	public void testOneLineTextNodeFormat() throws UnsupportedEncodingException, IOException, CoreException {
 		// results are different than old formatter
 		// BUG166441
-		formatAndAssertEquals("testfiles/xml/onelineTextNode.xml", "testfiles/xml/onelineTextNode-newfmt.xml");
+		formatAndAssertEquals("testfiles/xml/onelineTextNode.xml", "testfiles/xml/onelineTextNode-fmt.xml");
 	}
 
 	public void testEmptyContentNodeFormat() throws UnsupportedEncodingException, IOException, CoreException {

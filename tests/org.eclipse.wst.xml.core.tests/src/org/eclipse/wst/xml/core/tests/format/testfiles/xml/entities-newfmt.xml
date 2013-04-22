@@ -2,7 +2,5 @@
 <!DOCTYPE document [
 <!ENTITY EII "<emph>element information item</emph>">
 ]>
-<document>
-	This document contains no child &EII;s.
-	It does contain a non&EII;. 
-</document>
+<document> This document contains no child &EII;s. It does contain a
+	non&EII;. </document>

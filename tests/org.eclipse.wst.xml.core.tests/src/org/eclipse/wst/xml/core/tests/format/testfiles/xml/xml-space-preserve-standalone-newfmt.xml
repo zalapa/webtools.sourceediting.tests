@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <main>
-	<nothing> this is not a target, strip spaces as you please 
-	</nothing>
+	<nothing> this is not a target, strip spaces as you please </nothing>
 	<preserve xml:space="preserve" but-attr-clean-up="true">
   This is just
      
@@ -18,13 +17,10 @@
     <nothing>
 		this space   is not for sale	OR FORMATTING
 		, please </nothing> <!-- NOTE THE SPACES -->  <space-default
-		xml:space="default">
-		No man is an island, . . . but this section is, really, so clean it up
-		please - waste of space
-	</space-default>
+			xml:space="default"> No man is an island, . . . but this section is,
+			really, so clean it up please - waste of space </space-default>
   .
   . This should be space   preserved
   </preserve>
-	<nothing> this is not a target, strip spaces as you please 
-	</nothing>
+	<nothing> this is not a target, strip spaces as you please </nothing>
 </main>
